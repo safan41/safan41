@@ -14,6 +14,6 @@ tinkering with ML, robotics, computer architecture, embedded systems, and hardwa
 
 ### current projects:
 - developing [PHASE](https://github.com/hkn-alpha/PHASE) for online ECE class practice
-- developing [nvWebP](https://github.com/safan41/nvWebP) for batch NVidia GPU-accelerated WebP/VP8 encoding
+- developing [nvWebP](https://github.com/safan41/nvWebP) for batch NVIDIA GPU-accelerated WebP/VP8 encoding
 - will develop CPU architecture for Fall 2026 ECE411
 - will develop personal website in Elm (eventually 🫠)
