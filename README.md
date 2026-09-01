@@ -1,5 +1,5 @@
 ### He ll o 👋
-tinkering with ML, robotics, computer architecture, embedded systems, and hardware security
+tinkering with computer architecture, embedded systems, and hardware security
 
 ### info:
 - studying Computer Engineering @ the University of Illinois at Urbana-Champaign
